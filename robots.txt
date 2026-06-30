@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://norfolkpestcontrolco.com/sitemap.xml
